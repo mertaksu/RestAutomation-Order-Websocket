@@ -1,0 +1,19 @@
+{
+  "type":0,
+  "orderDto":{
+    "orderDate":"29-06-2018",
+    "description":"Az tuzlu olsun",
+    "totalBill":"45.5",
+    "status":true,
+    "table": {
+      "tableId":1
+    },
+    "dishList": [
+      {
+        "dishId":826
+      },
+      {
+        "dishId":827
+      }]
+  }
+}
